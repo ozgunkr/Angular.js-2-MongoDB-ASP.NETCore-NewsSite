@@ -1,0 +1,9 @@
+D:\KlikHaber\KlikHaber.Model\bin\Debug\KlikHaber.Model.dll
+D:\KlikHaber\KlikHaber.Model\bin\Debug\KlikHaber.Model.pdb
+D:\KlikHaber\KlikHaber.Model\obj\Debug\KlikHaber.Model.dll
+D:\KlikHaber\KlikHaber.Model\obj\Debug\KlikHaber.Model.pdb
+C:\Users\Özgün\Desktop\KlikHaber\KlikHaber.Model\bin\Debug\KlikHaber.Model.dll
+C:\Users\Özgün\Desktop\KlikHaber\KlikHaber.Model\bin\Debug\KlikHaber.Model.pdb
+C:\Users\Özgün\Desktop\KlikHaber\KlikHaber.Model\obj\Debug\KlikHaber.Model.csprojResolveAssemblyReference.cache
+C:\Users\Özgün\Desktop\KlikHaber\KlikHaber.Model\obj\Debug\KlikHaber.Model.dll
+C:\Users\Özgün\Desktop\KlikHaber\KlikHaber.Model\obj\Debug\KlikHaber.Model.pdb

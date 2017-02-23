@@ -1,0 +1,4 @@
+D:\KlikHaber\KlikHaber.Integration\bin\Debug\KlikHaber.Integration.dll
+D:\KlikHaber\KlikHaber.Integration\bin\Debug\KlikHaber.Integration.pdb
+D:\KlikHaber\KlikHaber.Integration\obj\Debug\KlikHaber.Integration.dll
+D:\KlikHaber\KlikHaber.Integration\obj\Debug\KlikHaber.Integration.pdb

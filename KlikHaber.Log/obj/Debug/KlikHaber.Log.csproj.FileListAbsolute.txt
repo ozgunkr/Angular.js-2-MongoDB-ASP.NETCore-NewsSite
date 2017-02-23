@@ -1,0 +1,7 @@
+D:\KlikHaber\KlikHaber.Log\bin\Debug\KlikHaber.Log.dll
+D:\KlikHaber\KlikHaber.Log\bin\Debug\KlikHaber.Log.pdb
+D:\KlikHaber\KlikHaber.Log\bin\Debug\NLog.dll
+D:\KlikHaber\KlikHaber.Log\bin\Debug\NLog.xml
+D:\KlikHaber\KlikHaber.Log\obj\Debug\KlikHaber.Log.csprojResolveAssemblyReference.cache
+D:\KlikHaber\KlikHaber.Log\obj\Debug\KlikHaber.Log.dll
+D:\KlikHaber\KlikHaber.Log\obj\Debug\KlikHaber.Log.pdb
