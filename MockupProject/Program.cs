@@ -12,6 +12,7 @@ namespace MockupProject
     {
         static void Main(string[] args)
         {
+            //test
             ArticleRepository articles = new ArticleRepository();
             Article article = new Article { Id = 4, Category = "Ekonomi", Title = "Barcelona yenildi", Body = "Test Body" };
             articles.Add(article);
